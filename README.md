@@ -35,7 +35,7 @@ How does BAFF signaling through BAFF-R affect the survival, activation, and prol
 | Receptor | BAFF-R (BAFF receptor/CD268), encoded by *TNFRSF13C* |
 | Receiver cell | B cell |
 | Signaling context | Immune signaling and B-cell homeostasis; BAFF–BAFF-R signaling promotes the survival, maturation, and maintenance of mature B cells and supports B-cell responses. |
-| Supporting source Omnipath https://explore.omnipathdb.org/search?q=TNFSF13B%2C&tab=intercell&species=9606&parents=ligand https://explore.omnipathdb.org/search?q=TNFSF13B%2C+TNFRSF13C%2C&tab=intercell&species=9606&parents=receptor |
+| Supporting source Omnipath | https://explore.omnipathdb.org/search?q=TNFSF13B%2C&tab=intercell&species=9606&parents=ligand https://explore.omnipathdb.org/search?q=TNFSF13B%2C+TNFRSF13C%2C&tab=intercell&species=9606&parents=receptor |
 | Supporting source Uniprot | https://www.uniprot.org/uniprotkb/Q96RJ3/entry  |
 
 
