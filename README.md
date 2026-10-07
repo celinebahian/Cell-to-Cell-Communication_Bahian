@@ -93,6 +93,63 @@ I selected BAFF (TNFSF13B) and BAFF-R (TNFRSF13C) because they are part of the p
 
 This model shows how BAFF signaling allows communication between a sender cell and a B cell. The sender cell produces BAFF (TNFSF13B), which is released into the extracellular space. BAFF then moves toward the B cell and binds to BAFF-R (TNFRSF13C) on the surface of the receiver cell. After BAFF binds to BAFF-R, the signal is passed inside the B cell through TRAF3, followed by NFKB2 and RELB. These components help control gene expression inside the B cell. The changes in gene expression can support important B-cell functions such as survival, activation, and proliferation. This pathway is an example of cell-to-cell communication because a signal produced by one cell affects the activity of another cell. The BAFF–BAFF-R interaction allows the B cell to receive signals that help maintain its survival and function. The pathway also shows how an outside signal can be passed through several intracellular components before producing a response in the cell.
 
+
+## Questions and Answers
+
+**1. What sender cell did you choose, and in what tissue or biological context does it act?**
+
+I chose a **BAFF-producing immune cell, such as a monocyte**, as the sender cell. It acts in the **immune system**, where it can send signals that help regulate B-cell survival and function.
+
+---
+
+**2. What signaling molecule did you identify, and what evidence supports its production or presentation by the sender cell?**
+
+The signaling molecule I identified is **BAFF (`TNFSF13B`)**. The Human Protein Atlas shows `TNFSF13B` expression in immune cells, including monocytes. This supports the idea that the sender cell can produce BAFF.
+
+---
+
+**3. What receptor receives the signal, and which receiver cell did you select?**
+
+The receptor is **BAFF-R (`TNFRSF13C`)**, and I selected the **B cell** as the receiver. The Human Protein Atlas shows that `TNFRSF13C` is expressed in B-cell populations.
+
+---
+
+**4. What type of cell-to-cell signaling is represented?**
+
+The signaling type is **paracrine signaling** because BAFF is produced by one cell and acts on another nearby cell, which is the B cell.
+
+---
+
+**5. Which proteins in your STRING network appear most relevant to the receptor-associated response? Explain briefly.**
+
+The most relevant proteins are **TNFSF13B, TNFRSF13C, TNFRSF13B, and TNFRSF17**. `TNFSF13B` is BAFF, while `TNFRSF13C` is BAFF-R, which is the main receptor in our model. `TNFRSF13B` and `TNFRSF17` are also related to BAFF signaling and B-cell functions.
+
+---
+
+**6. What enriched pathway or biological process is consistent with your proposed mechanism?**
+
+The STRING results showed processes related to **TNF-mediated signaling, B-cell proliferation, lymphocyte homeostasis, and B-cell costimulation**. These processes fit our proposed BAFF signaling because BAFF helps B cells survive and function properly.
+
+---
+
+**7. What did IntAct show for the molecular interaction you examined? What type of evidence was reported?**
+
+IntAct showed a **direct interaction between BAFF (`TNFSF13B`) and BAFF-R (`TNFRSF13C`)**. The record is **EBI-64072608**. The interaction was detected using a **solid phase assay** under **in vitro conditions** in humans, and the result was positive.
+
+---
+
+**8. Which parts of your final model are strongly supported, and which parts remain an inference?**
+
+The **BAFF–BAFF-R interaction** is strongly supported by the IntAct experimental evidence. The expression of BAFF in immune cells and BAFF-R in B cells is also supported by the Human Protein Atlas. The STRING results support their connection to B-cell-related functions.
+
+The **TRAF3 → NFKB2 → RELB** part of the diagram is a simplified representation of the downstream pathway, so this part is more of an inference for our model.
+
+---
+
+**9. What cellular response is expected in the receiver cell, and why?**
+
+The expected response is **B-cell survival, activation, and proliferation**. When BAFF binds to BAFF-R, it sends a signal into the B cell that can affect gene expression. This helps the B cell survive and maintain its normal function.
+
 ## References and database links
 
 HPA :  https://www.proteinatlas.org/ENSG00000159958-TNFRSF13C
