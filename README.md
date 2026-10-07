@@ -24,8 +24,7 @@ How does BAFF signaling through BAFF-R affect the survival, activation, and prol
 | Signaling context | BAFF–BAFF-R signaling is involved in B-cell survival, maturation, maintenance, and immune responses. |
 | Expression evidence | The Human Protein Atlas shows TNFRSF13C enrichment in B-cell populations, including naive and memory B cells. |
 | Supporting source | https://www.proteinatlas.org/ENSG00000159958-TNFRSF13C |
-| HPA | https://www.proteinatlas.org/ENSG00000159958-TNFRSF13C
-https://www.proteinatlas.org/ENSG00000102524-TNFSF13B |
+| HPA | https://www.proteinatlas.org/ENSG00000159958-TNFRSF13C https://www.proteinatlas.org/ENSG00000102524-TNFSF13B |
 | OmniPath | https://explore.omnipathdb.org/search?q=TNFSF13B%2C+TNFRSF13C%2C&tab=intercell&species=9606&parents=receptor%2Cligand |
 
 ## Receptor and receiver cell with supporting evidence
@@ -36,8 +35,7 @@ https://www.proteinatlas.org/ENSG00000102524-TNFSF13B |
 | Receptor | BAFF-R (BAFF receptor/CD268), encoded by *TNFRSF13C* |
 | Receiver cell | B cell |
 | Signaling context | Immune signaling and B-cell homeostasis; BAFF–BAFF-R signaling promotes the survival, maturation, and maintenance of mature B cells and supports B-cell responses. |
-| Supporting source Omnipath https://explore.omnipathdb.org/search?q=TNFSF13B%2C&tab=intercell&species=9606&parents=ligand
-https://explore.omnipathdb.org/search?q=TNFSF13B%2C+TNFRSF13C%2C&tab=intercell&species=9606&parents=receptor |
+| Supporting source Omnipath https://explore.omnipathdb.org/search?q=TNFSF13B%2C&tab=intercell&species=9606&parents=ligand https://explore.omnipathdb.org/search?q=TNFSF13B%2C+TNFRSF13C%2C&tab=intercell&species=9606&parents=receptor |
 | Supporting source Uniprot | https://www.uniprot.org/uniprotkb/Q96RJ3/entry  |
 
 
