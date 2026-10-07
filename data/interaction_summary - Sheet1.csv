@@ -1,0 +1,2 @@
+Ligand,Ligand Gene,Receptor ,Receptor Gene,Sender cell,Receiver cell,Interaction type,Evidence
+BAFF,TNFSF13B,BAFF-R,TNFRSF13C,Monocyte,B cell,Direct interaction,IntAct EBI-64072608
