@@ -14,18 +14,17 @@ How does BAFF signaling through BAFF-R affect the survival, activation, and prol
 | **Biological context** | Immune-cell communication |
 | **Main purpose** | Provides signals that support B-cell survival and activation |
 
-## Receptor and receiver cell with supporting evidence
+## Candidate ligand and evidence for sender-cell expression
 
 | Item | Information |
 |---|---|
-| Ligand | BAFF (B-cell activating factor), encoded by `TNFSF13B` |
-| Receptor | BAFF-R (BAFF receptor/CD268), encoded by `TNFRSF13C` |
-| Receiver cell | B cell |
-| Signaling context | BAFF–BAFF-R signaling is involved in B-cell survival, maturation, maintenance, and immune responses. |
-| Expression evidence | The Human Protein Atlas shows TNFRSF13C enrichment in B-cell populations, including naive and memory B cells. |
-| Supporting source | https://www.proteinatlas.org/ENSG00000159958-TNFRSF13C |
-| HPA | https://www.proteinatlas.org/ENSG00000159958-TNFRSF13C https://www.proteinatlas.org/ENSG00000102524-TNFSF13B |
-| OmniPath | https://explore.omnipathdb.org/search?q=TNFSF13B%2C+TNFRSF13C%2C&tab=intercell&species=9606&parents=receptor%2Cligand |
+| Sender cell | BAFF-producing immune cell (e.g., monocyte) |
+| Candidate ligand | BAFF |
+| Candidate gene | `TNFSF13B` |
+| Protein name | B-cell activating factor (BAFF) |
+| Expression evidence | The Human Protein Atlas provides TNFSF13B expression data for monocytes, supporting the choice of a BAFF-producing immune cell as the sender. |
+| Functional evidence | BAFF is a cytokine involved in B-cell and T-cell function and humoral immunity. |
+| UniProt | https://www.uniprot.org/uniprotkb/Q9Y275/entry |
 
 ## Receptor and receiver cell with supporting evidence
 
